@@ -1,5 +1,7 @@
 # sales-performance-powerbi-dashboard
-Power BI dashboard analyzing CRM sales performance, pipeline risk, and agent efficiency using synthetic data. #powerBi 
+Power BI dashboard analyzing CRM sales performance, pipeline risk, and agent efficiency using synthetic data. #powerBi
+
+https://app.powerbi.com/view?r=eyJrIjoiZmEwZTY3ODEtZjg3ZC00OWMyLTk5YzktYmQ4MjFiMTM2YzYxIiwidCI6IjgyMGVlMTdmLTc3YTYtNDIxNi05NTIxLTlhODBmNmU1NzEwOCJ9
 
 This Power BI project analyzes CRM sales performance using synthetic data to simulate real business scenarios.
 
